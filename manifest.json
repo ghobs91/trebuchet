@@ -1,8 +1,8 @@
 {
-  "name": "Bypass Paywall",
-  "description": "Bypass Paywall is a browser extension that allows you to read content that is behind a paywall on websites or blogs etc",
+  "name": "Trebuchet",
+  "description": "Trebuchet allows you to read content behind a paywall by serving up the archived version!",
   "version": "0.0.3",
-  "author": "Sagar Chauhan",
+  "author": "Andrew Ghobrial",
   "manifest_version": 3,
   "background": {
     "service_worker": "background.js"
